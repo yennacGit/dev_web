@@ -1,0 +1,3 @@
+pour changer la configuration de certains paramétres on peut le faire ghraphiquement dans les parametre puis en cherche par example html puis en met à false .ou bien en le fait via settings.json en l'edit ouis en colle:{
+"html.autoClosingTags": false
+}
